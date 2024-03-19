@@ -1,4 +1,4 @@
-﻿**America &Aventura Restanțelor![ref1]![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.002.png)![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.003.png)![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.004.png)![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.005.png)![ref1]![ref1]![ref2]![ref1]![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.007.png)![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.005.png)![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.004.png)![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.003.png)![ref2]![ref2]![ref1]Marian Tudor-Constantin ![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.008.png)![ref3]![ref4]![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.011.png)![ref5]![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.013.png)![ref1]![ref1]![ref1]![ref1]![ref1]![ref6]![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.011.png)![ref3]![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.013.png)![ref4]![ref5]![ref2]![ref1]**
+﻿**America &Aventura Restanțelor![ref1]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.002.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.003.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.004.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.005.png)![ref1]![ref1]![ref2]![ref1]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.007.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.005.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.004.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.003.png)![ref2]![ref2]![ref1]Marian Tudor-Constantin ![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.008.png)![ref3]![ref4]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.011.png)![ref5]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.013.png)![ref1]![ref1]![ref1]![ref1]![ref1]![ref6]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.011.png)![ref3]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.013.png)![ref4]![ref5]![ref2]![ref1]**
 
 **1211B![ref1]![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.014.png)![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.015.png)![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.016.png)![ref1]![ref6]![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.016.png)![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.015.png)![ref2]![ref1]**
 
@@ -176,10 +176,10 @@ Clasa Character este implementată de mai multe sublclase precum **Player**, **D
 - [https://www.google.com/imghp?hl=EN  ](https://www.google.com/imghp?hl=EN) 
 - [https://sanderfrenken.github.io/Universal-LPC-Spritesheet-C](https://sanderfrenken.github.io/Universal-LPC-Spritesheet)haracterGenerator
 
-[ref1]: Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.001.png
-[ref2]: Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.006.png
-[ref3]: Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.009.png
-[ref4]: Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.010.png
-[ref5]: Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.012.png
-[ref6]: Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.007.png
-[ref7]: Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.021.png
+[ref1]: readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.001.png
+[ref2]: readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.006.png
+[ref3]: readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.009.png
+[ref4]: readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.010.png
+[ref5]: readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.012.png
+[ref6]: readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.007.png
+[ref7]: readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.021.png

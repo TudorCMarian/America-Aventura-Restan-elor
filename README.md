@@ -1,8 +1,8 @@
-﻿**America &Aventura Restanțelor![ref1]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.002.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.003.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.004.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.005.png)![ref1]![ref1]![ref2]![ref1]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.007.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.005.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.004.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.003.png)![ref2]![ref2]![ref1]Marian Tudor-Constantin ![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.008.png)![ref3]![ref4]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.011.png)![ref5]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.013.png)![ref1]![ref1]![ref1]![ref1]![ref1]![ref6]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.011.png)![ref3]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.013.png)![ref4]![ref5]![ref2]![ref1]**
+﻿**America &Aventura Restanțelor![ref1]![](readme/readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.002.png)![](readme/readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.003.png)![](readme/readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.004.png)![](readme/readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.005.png)![ref1]![ref1]![ref2]![ref1]![](readme/readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.007.png)![](readme/readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.005.png)![](readme/readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.004.png)![](readme/readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.003.png)![ref2]![ref2]![ref1]Marian Tudor-Constantin ![](readme/readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.008.png)![ref3]![ref4]![](readme/readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.011.png)![ref5]![](readme/readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.013.png)![ref1]![ref1]![ref1]![ref1]![ref1]![ref6]![](readme/readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.011.png)![ref3]![](readme/readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.013.png)![ref4]![ref5]![ref2]![ref1]**
 
-**1211B![ref1]![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.014.png)![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.015.png)![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.016.png)![ref1]![ref6]![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.016.png)![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.015.png)![ref2]![ref1]**
+**1211B![ref1]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.014.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.015.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.016.png)![ref1]![ref6]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.016.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.015.png)![ref2]![ref1]**
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.017.png) ![ref1]
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.017.png) ![ref1]
 
 **Proiectarea contextului și descrierea detaliată:** 
 
@@ -12,7 +12,7 @@ Odată reîntors de pe minunatul tărâm al libertății, anume Statele Unite al
 
 Înarmat cu foi albe și singurul pix pe care îl are, Tudor trebuie să își facă drumul până la facultate, trecând prin campusul studențesc unde este întâmpinat de nenumărate ispite care îl distrag de la țelul său (Shaorma, Master Club, Prieteni cu chef de distracție). Odată ajuns la facultate, acesta trebuie să își plătească restanțele la Secretariat, unde este întâmpinat de secretare furioase care au nevoie de dosare cu șină. În final, protagonistul trebuie să treacă prin proba supremă,  Examenul de Restanță.   
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.018.jpeg)
+![](readme/readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.018.jpeg)
 
 *Meniu de start*   
 
@@ -37,9 +37,9 @@ Punctele din joc sunt date de către grades ce se găsesc pe parcursul jocului, 
 
 Pe parcursul hărții se pot găsii diverse bonusuri atât pozitive cât și negative care îl pot ajuta pe protagonist sau care îi pot fura din concentrare:
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.019.png)  Papers reprezintă obiectivul protagonistului pe parcursul jocului. Acesta trebuie să le culeagă pentru a avansa nivelele.  
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.019.png)  Papers reprezintă obiectivul protagonistului pe parcursul jocului. Acesta trebuie să le culeagă pentru a avansa nivelele.  
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.020.png)Berea este unu din bonusurile negative ale jocului acesta scăzând atât 
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.020.png)Berea este unu din bonusurile negative ale jocului acesta scăzând atât 
 
 concentrarea   
 
@@ -47,35 +47,35 @@ cât și viteza protagonistului.
 
 **Proiectarea conținutului și descrierea detaliată** Game sprite-uri utilizate: 
 
-![ref7] ![ref1]**Tudor:![ref1]** ![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.022.png)![ref1]![ref1]![ref1]![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.023.png)![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.023.png)![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.022.png)
+![ref7] ![ref1]**Tudor:![ref1]** ![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.022.png)![ref1]![ref1]![ref1]![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.023.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.023.png)![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.022.png)
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.024.png)
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.024.png)
 
 Tudor este personajul principal al jocului și este o reprezentare fictivă a persoanei din realitate. Parcursul acestuia este definit de ocolirea obstacolelor în primul nivel și colectarea de grades în cel de al doilea nivel, urmând ca în final acesta să se lupte cu Domn Profesor.   
 
 ` `**Prieten bețiv:**   ![ref7]
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.025.png)
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.025.png)
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.026.png)
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.026.png)
 
 Prietenul bețiv este o generalizare a tuturor prietenilor conștiincioși care au învățat când a trebuit, iar acum au timp liber în care se distrează. Bandajele sunt un detaliu care semnifică degradarea în care distracția i-a adus, la fel ca și ochii roșii.  
 
 **Secretară furioasă:**
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.027.png)
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.027.png)
 
 Secretara este unul dintre personajele celui de al doilea nivel. Protagonistul trebuie să ajungă la ea cu scopul de a-și plăti taxele de restanță, pentru a putea ajunge la inamicul final.   
 
 **Student AC:**
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.028.png)
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.028.png)
 
 Student AC reprezintă cel de al doilea caracter de la nivelul doi. Acesta se află la coada de la secretariat așteptând să își depună dosarul pentru bursa de merit. Aceștia intră în conflict cu personajul principal care nu respectă rândul și încearcă să taie coada.   
 
 ` `**Final Boss**
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.029.png)Final Boss reprezintă inamicul suprem al jocului și ultimul pas in calea libertății protagonistului.  
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.029.png)Final Boss reprezintă inamicul suprem al jocului și ultimul pas in calea libertății protagonistului.  
 
 Protagonistul trebuie să demonstreze că s-a pregatit și că merită sa treacă în anul III.
 
@@ -88,29 +88,29 @@ Pentru al doilea nivel, cadrul acțiunii se mută pe teritoriul facultății, un
 
 Pentru a termina jocul, următorul nivel se desfășoară în cadrul amfiteatrului AC-02, unde Tudor se întâlnește cu inamicul final, Examenul de Restanța. Acesta trebuie să arate cât de bine sa pregătit și să răspundă la o serie de întrebări din examen.    
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.030.jpeg)
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.030.jpeg)
 
 *Nivel 1-*   
 
 ` `*Campus Tudor Vladimirescu*  
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.031.jpeg)
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.031.jpeg)
 
 *Nivel 2-*  
 
 *Facultatea de Automatică și Calculatoare*  
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.032.jpeg)
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.032.jpeg)
 
 *Nivel 2- Amfiteatru AC-02*  
 
 **Proiectarea interfeței cu utilizatorul:** 
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.033.jpeg)
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.033.jpeg)
 
 **Diagramă proiect** 
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.034.jpeg)
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.034.jpeg)
 
 **Descriere clase:** 
 
@@ -165,9 +165,9 @@ Clasa Character este implementată de mai multe sublclase precum **Player**, **D
 
 În baza de date se salvează highest score. 
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.035.jpeg)
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.035.jpeg)
 
-![](Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.036.png)
+![](readme/Aspose.Words.40b92d98-aa06-4fa0-b59e-761c7882eacc.036.png)
 
 **Resurse bibliografice:** 
 
